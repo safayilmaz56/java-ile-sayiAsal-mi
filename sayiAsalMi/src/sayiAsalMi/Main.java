@@ -7,9 +7,7 @@ public class Main {
 		int number = 2;
 		boolean isPrime = true;
 		
-		/*if(number == 2) {
-			System.out.println("sayi asaldir");
-		}*/
+		
 		
 		if(number == 1) {
 			System.out.println("sayi asal degildir");
